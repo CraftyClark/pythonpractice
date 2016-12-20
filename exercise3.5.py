@@ -2,7 +2,17 @@
 learned so far.
 1. Write a function that draws a grid like the following:
 
-+----+----+ ||| ||| ||| ||| +----+----+ ||| ||| ||| ||| +----+----+
++----+----+ 
+|	 |	  | 
+|	 |	  | 
+|	 |	  | 
+|	 |	  | 
++----+----+ 
+|	 |	  | 
+|	 |	  | 
+|	 |	  | 
+|	 |	  | 
++----+----+
 Hint: to print more than one value on a line, you can print a comma-separated sequence:
 print('+', '-')
 To have Python leave the line unfinished (so the value printed next appears on the same line), use the following:
