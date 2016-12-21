@@ -1,0 +1,8 @@
+A development plan is a process of writing programs.
+The process we used while creating polygon.py is called "encapsulation and generalization". 
+The steps of this process are:
+	1. Start by writing a small program w/ no function definitions.
+	2. Once you get program working, encapsulate it in a function and give it a name. 
+	3. Generalize the function by adding appropriate parameters. 
+	4. Repeat steps 1-3 until you have a set of working functions. Copy and paste working code to avoid retyping (and re-debugging)
+	5. Look for opportunities to improve the program by refactoring. For example if you have similiar code in several places, consider factoring it into an appropriately general function.
